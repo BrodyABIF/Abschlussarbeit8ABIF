@@ -1,0 +1,6 @@
+@MotorcycleWorkshop.API_HostAddress = http://localhost:5104
+
+GET {{MotorcycleWorkshop.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

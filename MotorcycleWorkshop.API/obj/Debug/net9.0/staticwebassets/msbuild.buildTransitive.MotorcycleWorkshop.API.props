@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/MotorcycleWorkshop.API.props" />
+</Project>

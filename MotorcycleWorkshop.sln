@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+#
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleWorkshop", "MotorcycleWorkshop\MotorcycleWorkshop.csproj", "{229AAD6C-7F8B-4527-AF6C-B22B1F8A398A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleWorkshop.Tests", "MotorcycleWorkshop.Tests\MotorcycleWorkshop.Tests.csproj", "{3CAD5FD1-9113-460D-9713-09A55728E43C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleWorkshop.API", "MotorcycleWorkshop.API\MotorcycleWorkshop.API.csproj", "{B4C93A93-D52E-4091-8454-679928DC15E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleWorkshop.API.Test", "MotorcycleWorkshop.API.Test\MotorcycleWorkshop.API.Test.csproj", "{E60BC442-DB12-4669-8B8C-2AFD437AF1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{229AAD6C-7F8B-4527-AF6C-B22B1F8A398A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229AAD6C-7F8B-4527-AF6C-B22B1F8A398A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229AAD6C-7F8B-4527-AF6C-B22B1F8A398A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229AAD6C-7F8B-4527-AF6C-B22B1F8A398A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAD5FD1-9113-460D-9713-09A55728E43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAD5FD1-9113-460D-9713-09A55728E43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAD5FD1-9113-460D-9713-09A55728E43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAD5FD1-9113-460D-9713-09A55728E43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C93A93-D52E-4091-8454-679928DC15E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C93A93-D52E-4091-8454-679928DC15E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C93A93-D52E-4091-8454-679928DC15E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C93A93-D52E-4091-8454-679928DC15E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60BC442-DB12-4669-8B8C-2AFD437AF1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60BC442-DB12-4669-8B8C-2AFD437AF1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60BC442-DB12-4669-8B8C-2AFD437AF1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60BC442-DB12-4669-8B8C-2AFD437AF1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
